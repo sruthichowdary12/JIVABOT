@@ -27,7 +27,7 @@ OS : Linus / Windows<br>
   - tell any sentence just include the words  <b>open facebook</b> <br>
 
    # Want to know the weather of your city?
-  - Ask <b>Jiva</b> , <b>weather</b> of Dhaka(City name)<br>
+  - Ask <b>Jiva</b> , <b>weather</b> of Hyderabad(City name)<br>
   - tell any sentence just include the word <b>weather</b> <br>
   
   # Want to stop Jiva?
